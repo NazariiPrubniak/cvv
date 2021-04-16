@@ -1,0 +1,21 @@
+body{
+    margin: 0; 
+     padding: 0;
+}
+.main {
+    display: block;
+    width: 25%;
+    text-align: left;
+    padding-left: 250px;
+    padding-top: 0%;
+    line-height: 1.4;
+    position: absolute;
+    top: 40px;
+}
+.aside{width: 16%; 
+       height: 95vw; 
+       background-color: #0b0820; 
+       padding-top: 25px; 
+       color: #ffffff; 
+       line-height: 1.5;
+}
